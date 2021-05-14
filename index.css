@@ -1,0 +1,207 @@
+canvas
+{
+    margin-top: 10px;
+}
+
+
+.casescard
+{
+    width: 80%;
+    background-color:#f0e3ca;
+    text-align: center;
+    height: max-content;
+    padding: 30px 10px 10px 10px;
+    letter-spacing: 1.2px;    
+    border-radius: 10px; 
+    margin: 3px; 
+    box-shadow: 0px 10px 10px rgb(190, 183, 183);
+}
+
+.casescard h2
+{
+    color: #082692;
+    font-size:1.2rem;
+    font-weight: 1000;
+}
+
+.case
+{
+    margin: 0;
+    color: black;
+    font-size: 1.2rem;
+    font-weight:bold;
+}
+
+.date
+{
+    padding: 10px;
+    margin: 0;
+    color: ga;
+    font-size: 0.8rem;
+}
+.corona{
+    width: 80px;
+    height: 80px;
+}
+
+.coronaheading{
+    text-align: center;
+    font-weight:1000;
+    font-size: 2rem;
+    margin: 0;
+    letter-spacing:2px;
+}
+
+.toolkitImg{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width:100%;
+    height:210px; 
+}
+
+.toolkit{
+    border-radius: 5px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    box-shadow: 0px 10px 10px gray;
+}
+
+.toolkit h2
+{
+    margin: 0;
+    color:black;
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 5px;
+}
+
+nav
+{
+    margin: 0;
+    margin-bottom: 10px;
+    background-color:rgb(32, 3, 3);
+    text-align: center;
+    height: max-content;
+    text-decoration: none;
+ 
+}
+
+ul
+{
+    display:inline-flex;
+    list-style: none;
+    margin: 0;
+}
+li
+{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 10px;
+    margin:0 50px 0 50px;
+    letter-spacing: 2px;
+    
+}
+li:hover{
+    color:ivory;
+}
+
+
+.picker
+{
+
+    margin: 10px auto 10px auto;
+    width: 50%;
+}
+
+.flag
+{
+    width: 80px;
+    height: 80px;
+}
+.countryHead{
+    text-align: center;
+}
+
+marquee
+{
+    padding-left: 90px ;
+    color: rgb(0, 255, 221);
+    font-size: 1.2rem;
+    background-color: #C5331B;
+}
+
+@media only screen and (max-width: 991px) {
+    .coronaheading
+    {
+        font-size:3rem;
+    }
+    .casescard
+    {
+        width: 70%;
+        height: max-content;
+        margin: 30px auto 10px auto;
+        
+    }
+    .casescard h2
+    {
+        font-size:2rem;
+    }
+
+    .case
+    {
+        font-size: 1.9rem;
+    }
+
+    .date
+    {
+        padding: 10px 0 0 0;
+        font-size: 1.5rem;
+    }
+
+    nav
+    {
+        height: 100px;
+    }
+
+    ul
+    {
+        list-style: none;
+    }
+    
+    li
+    {
+        font-size: 2.2rem;
+        margin:0 30px 0 0 ;
+        
+    }
+    .toolkitImg{
+
+        height:300px;
+    }
+    
+    .toolkit{
+        margin-top: 30px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+    .toolkit h2
+    {
+        font-size: 2rem;
+    }
+    .picker
+    {
+        margin: 10px auto 10px auto;
+        width: 80%;
+        font-size: 2rem;
+    }
+    marquee
+    {
+        font-size: 1.5rem;
+    }
+}
+  
