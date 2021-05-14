@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/RupamPrasad/covid19-tracker/static/js/main.063d33e2.chunk.js",
-    "main.js.map": "/RupamPrasad/covid19-tracker/static/js/main.063d33e2.chunk.js.map",
-    "runtime-main.js": "/RupamPrasad/covid19-tracker/static/js/runtime-main.2891fd4a.js",
-    "runtime-main.js.map": "/RupamPrasad/covid19-tracker/static/js/runtime-main.2891fd4a.js.map",
-    "static/js/2.85c7c61d.chunk.js": "/RupamPrasad/covid19-tracker/static/js/2.85c7c61d.chunk.js",
-    "static/js/2.85c7c61d.chunk.js.map": "/RupamPrasad/covid19-tracker/static/js/2.85c7c61d.chunk.js.map",
-    "index.html": "/RupamPrasad/covid19-tracker/index.html",
-    "static/js/2.85c7c61d.chunk.js.LICENSE.txt": "/RupamPrasad/covid19-tracker/static/js/2.85c7c61d.chunk.js.LICENSE.txt"
+    "main.js": "/covid19-tracker/static/js/main.063d33e2.chunk.js",
+    "main.js.map": "/covid19-tracker/static/js/main.063d33e2.chunk.js.map",
+    "runtime-main.js": "/covid19-tracker/static/js/runtime-main.39e11e78.js",
+    "runtime-main.js.map": "/covid19-tracker/static/js/runtime-main.39e11e78.js.map",
+    "static/js/2.85c7c61d.chunk.js": "/covid19-tracker/static/js/2.85c7c61d.chunk.js",
+    "static/js/2.85c7c61d.chunk.js.map": "/covid19-tracker/static/js/2.85c7c61d.chunk.js.map",
+    "index.html": "/covid19-tracker/index.html",
+    "static/js/2.85c7c61d.chunk.js.LICENSE.txt": "/covid19-tracker/static/js/2.85c7c61d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2891fd4a.js",
+    "static/js/runtime-main.39e11e78.js",
     "static/js/2.85c7c61d.chunk.js",
     "static/js/main.063d33e2.chunk.js"
   ]
